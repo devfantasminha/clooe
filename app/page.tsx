@@ -5,7 +5,7 @@ import type { KeyboardEvent, ReactNode } from "react";
 import Script from "next/script";
 import { Plus_Jakarta_Sans } from "next/font/google";
 
-const META_PIXEL_ID = "866729919594397";
+const META_PIXEL_ID = "944039828388964";
 const CHECKOUT_URL = "https://pay.cakto.com.br/325sapc_1001528";
 const TERMS_URL = "/termos";
 const GUARANTEE_URL = "/garantia";
